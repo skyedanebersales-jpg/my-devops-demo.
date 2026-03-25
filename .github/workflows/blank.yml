@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
  # This is the single-line test
       - name: Run a one-line script
-        run: echo "Hello, the system is working!"
+      
 
       # This is the multi-line test
       - name: Run a multi-line script
